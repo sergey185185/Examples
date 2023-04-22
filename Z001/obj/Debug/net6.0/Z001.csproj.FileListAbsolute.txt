@@ -1,0 +1,15 @@
+C:\Users\bychk\OneDrive\Рабочий стол\SeminarC#1\SemDN1\Z001\bin\Debug\net6.0\Z001.exe
+C:\Users\bychk\OneDrive\Рабочий стол\SeminarC#1\SemDN1\Z001\bin\Debug\net6.0\Z001.deps.json
+C:\Users\bychk\OneDrive\Рабочий стол\SeminarC#1\SemDN1\Z001\bin\Debug\net6.0\Z001.runtimeconfig.json
+C:\Users\bychk\OneDrive\Рабочий стол\SeminarC#1\SemDN1\Z001\bin\Debug\net6.0\Z001.dll
+C:\Users\bychk\OneDrive\Рабочий стол\SeminarC#1\SemDN1\Z001\bin\Debug\net6.0\Z001.pdb
+C:\Users\bychk\OneDrive\Рабочий стол\SeminarC#1\SemDN1\Z001\obj\Debug\net6.0\Z001.csproj.AssemblyReference.cache
+C:\Users\bychk\OneDrive\Рабочий стол\SeminarC#1\SemDN1\Z001\obj\Debug\net6.0\Z001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bychk\OneDrive\Рабочий стол\SeminarC#1\SemDN1\Z001\obj\Debug\net6.0\Z001.AssemblyInfoInputs.cache
+C:\Users\bychk\OneDrive\Рабочий стол\SeminarC#1\SemDN1\Z001\obj\Debug\net6.0\Z001.AssemblyInfo.cs
+C:\Users\bychk\OneDrive\Рабочий стол\SeminarC#1\SemDN1\Z001\obj\Debug\net6.0\Z001.csproj.CoreCompileInputs.cache
+C:\Users\bychk\OneDrive\Рабочий стол\SeminarC#1\SemDN1\Z001\obj\Debug\net6.0\Z001.dll
+C:\Users\bychk\OneDrive\Рабочий стол\SeminarC#1\SemDN1\Z001\obj\Debug\net6.0\refint\Z001.dll
+C:\Users\bychk\OneDrive\Рабочий стол\SeminarC#1\SemDN1\Z001\obj\Debug\net6.0\Z001.pdb
+C:\Users\bychk\OneDrive\Рабочий стол\SeminarC#1\SemDN1\Z001\obj\Debug\net6.0\Z001.genruntimeconfig.cache
+C:\Users\bychk\OneDrive\Рабочий стол\SeminarC#1\SemDN1\Z001\obj\Debug\net6.0\ref\Z001.dll
